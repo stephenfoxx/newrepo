@@ -1,0 +1,68 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+nav{
+  
+  height: 70px;
+  width:100%;
+  background-color: grey;
+
+}
+
+.box1 {
+  display: flex;
+  gap: 200px;
+  padding-top: 40px;
+  padding-left: 150px;
+}
+
+.h2{
+  width: 300px;
+  height: 70px;
+  background-color: white;
+}
+
+.image{
+  height: 150px;
+  width: 200px;
+  background-color: gray;
+ 
+}
+.a1{
+  display: grid;
+  gap: 10px;
+}
+.t1{
+  font-size: 50px;
+}
+
+.div2{
+  padding-top: 20px;
+  padding-left: 130px;
+  
+}
+.check1{
+  display: flex;
+  gap: 10px;
+}
+.check2{
+  display: flex;
+  gap: 10px;
+}
+
+.check3{
+  display: grid;
+  padding-top: 10px;
+  gap: 10px;
+}
+.box{
+  height: 100px;
+  width: 250px;
+  }
+
+.t2{
+  font-weight: bold;
+}
